@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="CSS/reset.css">
+	<link rel="stylesheet" href="CSS/text.css">
+	<link rel="stylesheet" href="CSS/960_24_col.css">
+	<link rel="stylesheet" href="CSS/29.css">
+	<title>29</title>
+</head>
+	<body>
+		
+		<div class="container_24">
+			<header>
+				<h1 class="clearfix">Black + White</h1>
+				<nav>
+					<ul>
+						<li><a href="C:\Users\HaileyFamily\OneDrive - Hailey Family\Documents\HTML\ROOT\29.html" class="selected">Home</a></li>
+						<li><a href="#">Our Services</a></li>
+						<li><a href="#">How We Work</a></li>
+						<li><a href="#">Testimonials</a></li>
+						<li><a href="C:\Users\HaileyFamily\OneDrive - Hailey Family\Documents\HTML\ROOT\work.html">Work Examples</a></li>
+					</ul>
+				</nav>
+				<div class="banner grid_12">
+					<h2>some slick phrase would go in here
+					to sum up what the business
+					actually does and stands for</h2>
+				</div>	
+				<div class="grid_4 callout">
+				</div>
+				
+			</header>
+		
+			<div class="main clearfix"></div>
+			<div class="grid_9">
+			<h3>Services We Offer</h3>
+			<p>Donec odio arcu, faucibus vel, accumsan eu, curus
+			in, ipsum. Pellentesque blandit condumentum purus.
+			Supendisse commodo dui.</p>
+			<p> Quisque a tellus, Vestibulum tincident lorem ac est.
+			Vivamus augue quam, hendrerit at, porta ut, tristique
+			ac, lacus. Lorum ipsum dolor sit amet, consectetuer
+			adipiscing elit. Curabitur fringilla eros ulreices justo.
+			Nunc condimentum. Ut id dui in erat vulputate ultricies.</p>
+			<p><a href="#" class="button"> Read more</a></p></div>
+			<div class="grid_9">
+			<h3>How We Work</h3>
+			<p>Donec odio arcu, faucibus vel, accumsan eu, curus
+			in, ipsum. Pellentesque blandit condumentum purus.
+			Supendisse commodo dui.</p>
+			<p> Quisque a tellus, Vestibulum tincident lorem ac est.
+			Vivamus augue quam, hendrerit at, porta ut, tristique
+			ac, lacus. Lorum ipsum dolor sit amet, consectetuer
+			adipiscing elit. Curabitur fringilla eros ulreices justo.
+			Nunc condimentum. Ut id dui in erat vulputate ultricies.</p>
+			<p>Crac orci odio, conseqequat vel. venenatis id, mollis a,
+			lorem. Ut commodo accumsan sapien.</p>
+			<p><a href="#" class="button"> Read more</a></p></div>
+			<div class="grid_6">
+			<blockquote>
+				<p>Clean, elegant typography
+					matched with sharp lines
+					and precise spacing leads
+					to a professional look
+				and feel.</p>	
+			</blockquote></div>
+			
+			<footer>
+				<p><strong>black+white</strong> theme via <a href="http://themeforest.net">themeforest</a></p>
+			</footer>
+		</div>  <!--- end container/ comment out --->
+
+	</body>
+</html>
